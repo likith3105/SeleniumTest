@@ -27,13 +27,15 @@ dotnet add package Selenium.WebDriver
 dotnet add package Selenium.Support
 dotnet add package Selenium.WebDriver.ChromeDriver
 
-## 🛠 Requirements
+---
+
+🛠 Requirements
 
 - .NET SDK
 - Chrome Browser
 - ChromeDriver (auto-installed via NuGet)
 
-## ▶️ How to Run
+▶️ How to Run
 
 ```bash
 dotnet run
