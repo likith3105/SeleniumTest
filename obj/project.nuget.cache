@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/+YVqOtiBE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liki\\SeleniumTest\\SeleniumTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liki\\.nuget\\packages\\selenium.support\\4.33.0\\selenium.support.4.33.0.nupkg.sha512",
+    "C:\\Users\\Liki\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512",
+    "C:\\Users\\Liki\\.nuget\\packages\\selenium.webdriver.chromedriver\\137.0.7151.5500\\selenium.webdriver.chromedriver.137.0.7151.5500.nupkg.sha512"
+  ],
+  "logs": []
+}
